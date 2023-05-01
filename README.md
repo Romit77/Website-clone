@@ -1,4 +1,4 @@
 # Website-clone-Tailwind
 A website clone using Tailwind CSS
 
-Check it Out! ----> https://iridescent-sable-d1ce18.netlify.app/
+Check it Out! ----> https://main--fancy-mochi-06e85f.netlify.app/
